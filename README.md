@@ -14,7 +14,7 @@
   <h3 align="center">CodeChallenge</h3>
 
   <p align="center">
-    An awesome challenge which allowed me to understand pandaas and aiohttp!
+    An awesome challenge which allowed me to understand pandas and aiohttp!
     <br />
     <br />
     <a href="https://pybmi.herokuapp.com/bmi">View Demo</a>
